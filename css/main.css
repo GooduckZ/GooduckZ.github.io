@@ -222,7 +222,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   font-family: Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1em;
+  font-size: 1.5em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -234,28 +234,28 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Sofia Sans Condensed, Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
 }
 h1 {
-  font-size: 1.5em;
-}
-h2 {
   font-size: 1.375em;
 }
-h3 {
+h2 {
   font-size: 1.25em;
 }
-h4 {
+h3 {
   font-size: 1.125em;
 }
-h5 {
+h4 {
   font-size: 1em;
 }
-h6 {
+h5 {
   font-size: 0.875em;
+}
+h6 {
+  font-size: 0.75em;
 }
 p {
   margin: 0 0 20px;
@@ -1059,8 +1059,8 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1.375em;
+  font-family: Sofia Sans Condensed, Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: 1.5em;
   font-weight: normal;
   line-height: 1.5;
   margin: 0;
@@ -1746,7 +1746,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Sofia Sans Condensed, Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1933,7 +1933,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Sofia Sans Condensed, Sofia Sans Condensed, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2617,7 +2617,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #3e45b5;
+  background: #d6ff9e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
