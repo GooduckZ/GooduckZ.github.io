@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>填坑</title>
+    <url>/2023/02/17/todos/</url>
+    <content><![CDATA[<h1 id="寒假开的一些坑"><a href="#寒假开的一些坑" class="headerlink" title="寒假开的一些坑"></a>寒假开的一些坑</h1><ul>
+<li><input disabled="" type="checkbox"> 看完 <a href="https://www.bilibili.com/video/BV1x7411H7wa">Missing Semester</a></li>
+<li><input disabled="" type="checkbox"> 学习 LaTeX 语法</li>
+<li><input disabled="" type="checkbox"> Hexo &amp; Mkdocs 的进一步运用</li>
+<li><input disabled="" type="checkbox"> 了解 Regex 等知识</li>
+<li><input disabled="" type="checkbox"> <del>好好学习，逃脱退学的命运</del></li>
+</ul>
+<script src="https://giscus.app/client.js"
+        data-repo="GooduckZ/gooduckz.github.io"
+        data-repo-id="R_kgDOIs5esQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOIs5esc4CUeMn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>]]></content>
+      <tags>
+        <tag>todo</tag>
+      </tags>
+  </entry>
+</search>
